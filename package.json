@@ -1,0 +1,17 @@
+{
+  "name": "nightwatch-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^86.0.0",
+    "nightwatch": "^1.4.3"
+  },
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
